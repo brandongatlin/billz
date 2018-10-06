@@ -1,0 +1,16 @@
+Use Sequelize:
+
+Fields:
+
+billTitle
+initialURL
+paymentAmount
+maxPaymentAmount
+dateDue
+Function to call?
+Account number
+Phone number
+Password?
+(Rely on browser autofill)?
+User name
+User email
